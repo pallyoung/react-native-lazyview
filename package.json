@@ -1,0 +1,25 @@
+{
+  "name": "react-native-lazyview",
+  "version": "1.0.0",
+  "description": "provide a component that u can show the view later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallyoung/react-native-lazyview.git"
+  },
+  "keywords": [
+    "react-native",
+    "lazy",
+    "view",
+    "component"
+  ],
+  "author": "Spencer Ye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pallyoung/react-native-lazyview/issues"
+  },
+  "homepage": "https://github.com/pallyoung/react-native-lazyview#readme"
+}
